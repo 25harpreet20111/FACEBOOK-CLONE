@@ -1,9 +1,7 @@
 # Facebook Clone
-
 A responsive **Facebook Clone / Social Media Profile Website** developed using **HTML, CSS, and JavaScript**. This project recreates some of the basic features and layout of a social media platform for learning and academic purposes.
 
 ## 🚀 Features
-
 * 👤 User profile section
 * ✏️ Update profile name, bio, and location
 * 🖼️ Update profile picture
@@ -16,15 +14,12 @@ A responsive **Facebook Clone / Social Media Profile Website** developed using *
 * 🎨 Facebook-inspired user interface
 
 ## 🛠️ Technologies Used
-
 * **HTML5** — Website structure
 * **CSS3** — Styling and responsive layout
 * **JavaScript** — Interactive functionality
 * **LocalStorage** — Saving user preferences and profile information
 
 ## 📂 Project Structure
-
-```text
 Facebook-Clone/
 │
 ├── index.html
@@ -33,9 +28,7 @@ Facebook-Clone/
 ├── FB.js
 └── README.md
 ```
-
 ## ⚙️ How to Run
-
 1. Download or clone this repository.
 2. Open the project folder in **VS Code**.
 3. Make sure all HTML, CSS, and JavaScript files are in the correct location.
@@ -43,11 +36,8 @@ Facebook-Clone/
 5. You can also use the **Live Server** extension in VS Code.
 
 ## 💡 Project Functionality
-
 ### Profile Update
-
 Users can update their:
-
 * Name
 * Bio
 * Location
@@ -70,7 +60,6 @@ The website provides a Dark/Light mode option. The selected theme is saved using
 ## 🎯 Purpose
 
 This project was created as an **academic/practice project** to understand:
-
 * Front-end web development
 * HTML page structure
 * CSS layouts
@@ -90,8 +79,6 @@ This project was created as an **academic/practice project** to understand:
 * Notifications
 * Responsive mobile navigation
 * Search functionality
-
-
 ## ⚠️ Disclaimer
 
 This project is an **educational Facebook-inspired clone** created for learning and academic purposes. It is not affiliated with or endorsed by Facebook/Meta.
